@@ -61,6 +61,7 @@ a:hover{
     padding:2%;
     margin-block: 1%;
     border-radius: 1%;
+    display: inline-block;
 }
 #bookanappointment:hover {
     transform: scale(1.02);
@@ -70,6 +71,7 @@ a:hover{
     text-align: left;
     margin: 1%;
     float:right;
+    overflow: hidden;
 }
 #appotitle{
     display: inline-block;
@@ -77,7 +79,7 @@ a:hover{
 .input{
     display: inline-block;
     padding-inline: 1%;
-    padding-block-end: 2% ;
+    padding-block-end: 2%;
 }
 #contactus{
     border: solid #ffffff;
@@ -86,5 +88,5 @@ a:hover{
     border-radius: 1%;
 }
 #contactus:hover {
-    transform: scale(1.05);
+    transform: scale(1.02);
   }
