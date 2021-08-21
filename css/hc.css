@@ -51,7 +51,7 @@ a:hover{
     display: inline-block;
 }
 #knowyourdoctors:hover {
-    transform: scale(1.02);
+    transform: scale(1.01);
     transition: all 300ms;
   }
 #subrata{
